@@ -1,0 +1,12 @@
+{
+  "name": "inventory_info",
+  "extends": "inventory_info",
+  "profiles": [
+    "test/my_profile"
+  ],
+  "attributes": {
+    "$include": [
+      "profiles/my_profile.json"
+    ]
+  }
+}

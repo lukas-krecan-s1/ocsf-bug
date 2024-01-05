@@ -1,0 +1,12 @@
+{
+  "description": "Test Profile",
+  "meta": "profile",
+  "caption": "Test Profile",
+  "name": "my_profile",
+  "attributes": {
+    "my_object": {
+      "group": "classification",
+      "requirement": "recommended"
+    }
+  }
+}

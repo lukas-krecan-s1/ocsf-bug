@@ -1,0 +1,14 @@
+{
+    "caption": "Test Object",
+    "description": "Test Object",
+    "extends": "object",
+    "name": "my_object",
+    "attributes": {
+        "field": {
+            "caption": "Field",
+            "description": "Field",
+            "requirement": "recommended",
+            "type": "string_t"
+        }
+    }
+}

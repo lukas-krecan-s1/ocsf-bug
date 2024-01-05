@@ -1,0 +1,9 @@
+{
+  "name": "resource_details",
+  "extends": "resource_details",
+  "attributes": {
+    "my_object": {
+      "requirement": "required"
+    }
+  }
+}

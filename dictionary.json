@@ -1,0 +1,12 @@
+{
+  "caption": "Attribute Dictionary",
+  "description": "The Attribute Dictionary defines schema attributes and includes references to the events and objects in which they are used.",
+  "name": "dictionary",
+  "attributes": {
+    "my_object": {
+      "caption": "My Object",
+      "description": "My Object",
+      "type": "my_object"
+    }
+  }
+}
