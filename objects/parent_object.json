@@ -1,0 +1,14 @@
+{
+    "caption": "Parent Test Object",
+    "description": "Parent Test Object",
+    "extends": "object",
+    "name": "parent_object",
+    "attributes": {
+        "my_object": {
+            "caption": "My Object",
+            "description": "My Object",
+            "requirement": "recommended",
+            "type": "my_object"
+        }
+    }
+}
